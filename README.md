@@ -1,5 +1,6 @@
 # covid19.py
 
+Track the COVID-19 data in all the countries in the word from the command line. It is a [python](www.python.org) script inspired by [ahmadawais/corona-cli](https://github.com/ahmadawais/corona-cli) and it used the data from [NovelCOVID](https://github.com/NovelCOVID/API)
 
 ### Licence
 
