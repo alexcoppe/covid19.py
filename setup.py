@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
      name='covid19.py',  
-     version='0.0.1',
+     version='0.0.2',
      author="Alessandro Coppe",
      author_email="",
      description="Track the COVID-19 data in the word from the command line",
