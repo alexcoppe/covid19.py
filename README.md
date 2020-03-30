@@ -18,6 +18,8 @@ Show the first 10 countries by 10 cases:
 covid19.py -m 10
 ```
 
+![covid19](https://github.com/alexcoppe/covid19.py/blob/master/covid19.png)
+
 Show the help:
 
 ```
