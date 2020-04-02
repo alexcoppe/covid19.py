@@ -35,7 +35,7 @@ def main():
     data = json.loads(webpage)
     table = []
     for country_data in data:
-        if n > maximum:
+        if maximum != 0 and n > maximum - 1:
             break
         n += 1
         country = country_data.get("country")
