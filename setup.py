@@ -9,7 +9,7 @@ with open(path.join(this_directory, "README.md"), encoding="utf-8") as f:
 
 setuptools.setup(
      name='covid19.py',  
-     version='0.0.8',
+     version='0.0.9',
      author="Alessandro Coppe",
      author_email="",
      description="Track the COVID-19 data in the word from the command line",

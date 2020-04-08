@@ -12,15 +12,16 @@ pip install covid19.py
 
 ### Run
 
-Show the first 10 countries by 10 cases:
+Show the first 10 countries by cases (excluded China):
 
 ```
 covid19.py -m 10
 ```
 
-![covid19](https://raw.githubusercontent.com/alexcoppe/covid19.py/master/covid19.png)
+![covid19](https://raw.githubusercontent.com/alexcoppe/covid19.py/master/covid19.gif)
 
-Show the help:
+
+### Show the help:
 
 ```
 covid19.py -h
